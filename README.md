@@ -2,7 +2,7 @@
 
 
 - Especificações: CPU VPS 2 Core - 7 GB de RAM
-- Duração: 6 horas
+- Duração: 737383883 horas
 - SO: Windows 10 - Server 2019
 
 
